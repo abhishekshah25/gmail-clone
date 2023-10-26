@@ -4,7 +4,8 @@
 # gmail-clone
 Gmail UI Clone with Mail Functionalities using SMTP
 
-UI - Vite Framework using ReactJS
-Server - NodeJS 
+UI - Vite Framework using ReactJS, Material UI
+
+Server - NodeJS, ExpressJS
 Database - MongoDB
 
