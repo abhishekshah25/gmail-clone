@@ -8,6 +8,8 @@ The Gmail Clone is a web application that replicates some of the core functional
 Technologies Used:- 
 
 UI - Vite Framework using ReactJS, Material UI
+
 Server - NodeJS, ExpressJS
+
 Database - MongoDB
 
