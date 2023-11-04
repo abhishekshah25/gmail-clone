@@ -3,7 +3,7 @@
 
 # gmail-clone
 
-The Gmail Clone is a web application that replicates some of the core functionalities of Gmail. It's built using React and Material UI for the frontend, Node.js for the backend, and MongoDB as the database. The project aims to provide a user interface that mimics the look and feel of Gmail, offering features such as sending emails, managing inbox, composing emails, and more. 
+The Gmail Clone is a web application that replicates some of the core functionalities of Gmail. The project aims to provide a user interface that mimics the look and feel of Gmail, offering features such as sending emails, managing inbox, composing emails, and more. 
 
 Tech Stack:- 
 
