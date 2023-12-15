@@ -3,9 +3,16 @@
 
 # gmail-clone
 
-The Gmail Clone is a web application that replicates some of the core functionalities of Gmail. 
+Welcome to the Gmail Clone project! This application aims to replicate the essential features of Gmail, providing users with a familiar interface for sending and receiving emails.
 
-The project aims to provide a user interface that mimics the look and feel of Gmail, offering features such as sending emails, managing inbox, composing emails and more. 
+Features:-
+
+Compose Emails: Create and send emails with an intuitive and user-friendly interface.
+
+Inbox and Sent Items: View received emails in the inbox and keep track of sent emails in the sent items.
+
+Responsive Design: Enjoy a seamless user experience on various devices with a responsive design.
+
 
 Tech Stack:- 
 
