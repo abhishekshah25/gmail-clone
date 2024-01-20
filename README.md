@@ -3,7 +3,7 @@
 
 # gmail-clone
 
-This application aims to replicate the essential features of Gmail, providing users with a familiar interface for sending and receiving emails.
+This application aims to replicate the essential features of Gmail, providing users with a familiar interface for sending & receiving emails.
 
 Features:-
 
