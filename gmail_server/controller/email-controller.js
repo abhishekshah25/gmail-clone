@@ -1,5 +1,6 @@
 import Email from "../model/email.js";
 
+
 export const saveSentEmails = async (request,response) => {
   try{
     const email = await new Email(request.body);
