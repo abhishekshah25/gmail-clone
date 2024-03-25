@@ -20,7 +20,7 @@ const routes = {
   invalid: {
     path: '/*',
     element: Emails
-  }
+  },
 }
 
 export default routes;
